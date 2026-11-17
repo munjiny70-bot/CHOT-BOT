@@ -3,7 +3,7 @@
 유치원 원감·초등 교감이 업무 중 막히는 부분을 **물어보면, 길라잡이의 해당 위치로 바로 찾아가는** 웹 프로그램입니다.
 설치·로그인 없이 브라우저에서 바로 사용합니다.
 
-- 바로 열기: https://munjiny70-bot.github.io/AI-JINI/gyowongam-chatbot/
+- 바로 열기: https://munjiny70-bot.github.io/CHOT-BOT/
 - 파일로 쓰기: `index.html`을 내려받아 크롬·엣지로 열기 (인터넷 없이도 동작)
 
 ## 담긴 자료
